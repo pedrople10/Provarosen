@@ -1,0 +1,2 @@
+wwwroot\css\site.css
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\wwwroot\css\site.css

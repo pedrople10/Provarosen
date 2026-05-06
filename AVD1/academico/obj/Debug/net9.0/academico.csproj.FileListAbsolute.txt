@@ -1,0 +1,67 @@
+C:\Users\USER\Downloads\AVD1\AVD1\academico\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\USER\Downloads\AVD1\AVD1\academico\bin\Debug\net9.0\appsettings.json
+C:\Users\USER\Downloads\AVD1\AVD1\academico\bin\Debug\net9.0\academico.staticwebassets.runtime.json
+C:\Users\USER\Downloads\AVD1\AVD1\academico\bin\Debug\net9.0\academico.staticwebassets.endpoints.json
+C:\Users\USER\Downloads\AVD1\AVD1\academico\bin\Debug\net9.0\academico.exe
+C:\Users\USER\Downloads\AVD1\AVD1\academico\bin\Debug\net9.0\academico.deps.json
+C:\Users\USER\Downloads\AVD1\AVD1\academico\bin\Debug\net9.0\academico.runtimeconfig.json
+C:\Users\USER\Downloads\AVD1\AVD1\academico\bin\Debug\net9.0\academico.dll
+C:\Users\USER\Downloads\AVD1\AVD1\academico\bin\Debug\net9.0\academico.pdb
+C:\Users\USER\Downloads\AVD1\AVD1\academico\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\USER\Downloads\AVD1\AVD1\academico\obj\Debug\net9.0\academico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\AVD1\AVD1\academico\obj\Debug\net9.0\academico.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\AVD1\AVD1\academico\obj\Debug\net9.0\academico.AssemblyInfo.cs
+C:\Users\USER\Downloads\AVD1\AVD1\academico\obj\Debug\net9.0\academico.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\AVD1\AVD1\academico\obj\Debug\net9.0\academico.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Downloads\AVD1\AVD1\academico\obj\Debug\net9.0\academico.RazorAssemblyInfo.cache
+C:\Users\USER\Downloads\AVD1\AVD1\academico\obj\Debug\net9.0\academico.RazorAssemblyInfo.cs
+C:\Users\USER\Downloads\AVD1\AVD1\academico\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\USER\Downloads\AVD1\AVD1\academico\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\USER\Downloads\AVD1\AVD1\academico\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\USER\Downloads\AVD1\AVD1\academico\obj\Debug\net9.0\scopedcss\bundle\academico.styles.css
+C:\Users\USER\Downloads\AVD1\AVD1\academico\obj\Debug\net9.0\compressed\l1alyijgo2-{0}-l9xj2qv08b-l9xj2qv08b.gz
+C:\Users\USER\Downloads\AVD1\AVD1\academico\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\USER\Downloads\AVD1\AVD1\academico\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\USER\Downloads\AVD1\AVD1\academico\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\USER\Downloads\AVD1\AVD1\academico\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\USER\Downloads\AVD1\AVD1\academico\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\USER\Downloads\AVD1\AVD1\academico\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\USER\Downloads\AVD1\AVD1\academico\obj\Debug\net9.0\academico.dll
+C:\Users\USER\Downloads\AVD1\AVD1\academico\obj\Debug\net9.0\refint\academico.dll
+C:\Users\USER\Downloads\AVD1\AVD1\academico\obj\Debug\net9.0\academico.pdb
+C:\Users\USER\Downloads\AVD1\AVD1\academico\obj\Debug\net9.0\academico.genruntimeconfig.cache
+C:\Users\USER\Downloads\AVD1\AVD1\academico\obj\Debug\net9.0\ref\academico.dll
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\bin\Debug\net9.0\appsettings.json
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\bin\Debug\net9.0\academico.staticwebassets.endpoints.json
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\bin\Debug\net9.0\academico.staticwebassets.runtime.json
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\bin\Debug\net9.0\academico.exe
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\bin\Debug\net9.0\academico.deps.json
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\bin\Debug\net9.0\academico.runtimeconfig.json
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\bin\Debug\net9.0\academico.dll
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\bin\Debug\net9.0\academico.pdb
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\obj\Debug\net9.0\academico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\obj\Debug\net9.0\academico.AssemblyInfoInputs.cache
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\obj\Debug\net9.0\academico.AssemblyInfo.cs
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\obj\Debug\net9.0\academico.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\obj\Debug\net9.0\academico.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\obj\Debug\net9.0\academico.RazorAssemblyInfo.cache
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\obj\Debug\net9.0\academico.RazorAssemblyInfo.cs
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\obj\Debug\net9.0\academico.sourcelink.json
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\obj\Debug\net9.0\scopedcss\bundle\academico.styles.css
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\obj\Debug\net9.0\compressed\l1alyijgo2-{0}-l9xj2qv08b-l9xj2qv08b.gz
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\obj\Debug\net9.0\academico.dll
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\obj\Debug\net9.0\refint\academico.dll
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\obj\Debug\net9.0\academico.pdb
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\obj\Debug\net9.0\academico.genruntimeconfig.cache
+C:\Users\Pedro\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\AVD1\AVD1\academico\obj\Debug\net9.0\ref\academico.dll
